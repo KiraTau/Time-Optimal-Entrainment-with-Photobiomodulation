@@ -17,6 +17,7 @@ The first table shows all the parameters in Equations 3 to 9 in the paper.
 | $\mu_H$ | $4.2 nMs$ | $\chi$ | $45 h$ |
 
 $V_1$ and $V_2$ are polynomials. 
+
 $$ V_1(D_v) = 3.5702 \frac{\exp(-40 (D_v -1.45))-\exp(40 (D_v-1.45))}{\exp(-40 (D_v -1.45))+\exp(40 (D_v-1.45))} + \sum_{i = 0}^5 a_i D_v^i$$
 
 $$ V_2(D_v) = \begin{cases}
