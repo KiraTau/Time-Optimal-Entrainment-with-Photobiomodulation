@@ -2,19 +2,11 @@ Here are the tables of the parameters of the hybrid dynamical system model.
 The first table shows all the parameters in Equations 3 to 9 in the paper.
 | Parameter | Value | Parameter | Value |
 | :--- | :--- | :--- | :--- |
-| $\mu$ | $0.13 h^{-1}$ | $k_c$ | $0.4h$ |
-| $q$ | $1/3$ | $\tau_x$ | $24.2h$ |
-| $k$ | $0.55h^{-1}$ | $G$ | $33.75$ |
-| $\alpha_0$ | $0.05 h^{-1}$ | $p$ | $0.5$ |
-| $I_0$ | $9500 \textrm{ lux}$ | $\gamma$ | $0.0075h^{-1}$ |
-| $\tau_m$ | $1/360 h$ | $v_{mv}$ | $1.8 mVs$ |
-| $A_m$ | $1.3 mV$ | $\tau_v$ | $1/360 h$ |
-| $v_{vm}$ | $2.1 mVs$ | $v_{vc}$ | $3.37 mVs$ |
-| $v_{vh}$ | $1.01 mVnM^{-1}$ | $A_v$ | $-10.2 mV$ |
-| $Q_{max}$ | $100 s^{-1}$ | $\theta$ | $10 mV$ |
-| $V_{m,{\rm th}}$ | $-3.785 mV$ | $\sigma$ | $3 mV$ |
-| $c_{x}$ | $0.8$ | $c_{x_c}$ | $-0.16$ |
-| $\mu_H$ | $4.2 nMs$ | $\chi$ | $45 h$ |
+| $\mu$ | $0.13 h^{-1}$ | $k_c$ | $0.4 h$ | $q$ | $1/3$ |
+| $\tau$ | $24.2 h$ | $k$ | $0.55 h^{-1}$ | $\chi$ | $45 h$ |
+| $\mu_H$ | $4.2$ | $Q_{max}$ | $100$ | $\theta$ | $10$ |
+| $\sigma$ | $3$ | $v_{vc}$ | $3.37$ | $v_{vh}$ | $1.01$ |
+| $A_v$ | $-10.2$ | | | | |
 
 $V_1$ and $V_2$ are polynomials. 
 
